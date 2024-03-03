@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="news_app">News App</string>
+    <string name="navigation_drawer_icon">navigation Drawer Icon</string>
+    <string name="icon_search">Icon Search</string>
+    <string name="navigation_item_icon">Navigation Item icon</string>
+    <string name="categories">Categories</string>
+    <string name="settings">Settings</string>
+    <string name="news_card_image">News Card Image</string>
+
+</resources>
